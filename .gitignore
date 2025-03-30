@@ -1,0 +1,5 @@
+# Ignorar cualquier archivo que empiece con .env
+.env*
+
+# Ignorar la carpeta node_modules
+node_modules/
